@@ -1,6 +1,6 @@
-Book-Store
+## Book-Store
 
-Technologies: PHP, MySQL, Bootstrap, CSS
+# Technologies: PHP, MySQL, Bootstrap, CSS
 
 • Book Store CRUD application using PHP, MySQL, and Bootstrap.
 
